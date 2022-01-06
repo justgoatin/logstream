@@ -3,4 +3,4 @@ git:
   authType: ssh
   autoAction: none
   strictHostKeyChecking: true
-  remote: https://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@github.com/justgoatin/logstream.git
+  remote: https://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@github.com/justgoatin/logstream.git
